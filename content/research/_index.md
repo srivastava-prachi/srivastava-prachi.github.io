@@ -18,18 +18,33 @@
 
 ### Working Papers
 
-1. **“Title of Working Paper 1”**  
-   With *Coauthor A* and *Coauthor B*  
-   [Working Paper](link-to-ssrn-or-arxiv) | [Slides](link-to-slides.pdf)
+1. **“Firm climate investment: A glass half-full”**
+   *Revise and Resubmit - Energy Economics*
 
-2. **“Title of Working Paper 2”**  
-   With *Coauthor C*  
+
+   <small>with Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, and Ivan Yotzov</small>
+   
+
+   [Latest Draft]() | [NBER](https://www.nber.org/papers/w33081)
+
+3. **“The Drivers of Household Inflation Uncertainty”**
+
+   
+   <small>with Philip Schnattinger</small>
+
+   
    [Working Paper](link-to-NBER-or-SSRN)
 
+4. **“Household Inflation Uncertianty and Wage Growth Expectations”**
+
+   
+   <small>with Philip Schnattinger</small>
+
+   
+   [Working Paper](link-to-NBER-or-SSRN)
 ---
 
 ### Work in Progress
 
 - **“Tentative Title 1”** — with *Coauthor A*  
-- **“Tentative Title 2”** — solo project  
-- **“Tentative Title 3”** — early stage
+
