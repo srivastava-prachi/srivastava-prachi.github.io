@@ -36,7 +36,7 @@
    
    [Working Paper](link-to-NBER-or-SSRN)
 
-3. **“Household Inflation Uncertianty and Wage Growth Expectations”**
+3. **“Household Inflation Uncertainty and Wage Growth Expectations”**
 
    
    <small>with Philip Schnattinger</small>
