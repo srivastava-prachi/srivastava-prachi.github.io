@@ -47,10 +47,14 @@ params:
     profileMode:
           enabled: true
           title: Prachi Srivastava
-          subtitle: "My research focuses on expectations and uncertainty in macroeconomics. I completed my PhD from University College Dublin under the supervision of Karl Whelan and Constantin Bürgi."
+            subtitle: |
+            Hi! I am currently an Economist at the [Central Bank of Ireland](https://www.centralbank.ie/). I hold a Ph.D. in Economics from the [University College Dublin](https://www.ucd.ie/economics/). 
+
+            I work on topics in macroeconomics, in particular, expectations and uncertainty, and labor.
+           
           imageUrl: "prachi_picture.png"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           buttons:
             - name: Research
               url: /research/
