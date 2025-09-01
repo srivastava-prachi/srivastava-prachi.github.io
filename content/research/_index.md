@@ -19,6 +19,7 @@
 ### Working Papers
 
 1. **“Firm climate investment: A glass half-full”**
+   
    *Revise and Resubmit - Energy Economics*
 
 
@@ -27,7 +28,7 @@
 
    [Latest Draft]() | [NBER](https://www.nber.org/papers/w33081)
 
-3. **“The Drivers of Household Inflation Uncertainty”**
+2. **“The Drivers of Household Inflation Uncertainty”**
 
    
    <small>with Philip Schnattinger</small>
@@ -35,7 +36,7 @@
    
    [Working Paper](link-to-NBER-or-SSRN)
 
-4. **“Household Inflation Uncertianty and Wage Growth Expectations”**
+3. **“Household Inflation Uncertianty and Wage Growth Expectations”**
 
    
    <small>with Philip Schnattinger</small>
