@@ -7,9 +7,12 @@ menu:
     - name: Research
       url: /research/
       weight: 1
+    - name: Publications
+      url: /papers/
+      weight: 2
     - name: Teaching
       url: /teaching/
-      weight: 2
+      weight: 3
 
 params:
   description: "Welcome to Prachi Srivastava's academic website"
@@ -47,6 +50,8 @@ params:
     buttons:
       - name: Research
         url: /research/
+      - name: Publications
+        url: /papers/
       - name: Teaching
         url: /teaching/
 
