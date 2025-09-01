@@ -1,4 +1,4 @@
-# Minimalist Hugo Template for Academic Websites
+
 
 Prachi's website
 
