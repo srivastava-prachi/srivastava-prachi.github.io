@@ -6,13 +6,10 @@
 
 ### Published Papers
 
-1. **“Title of Published Paper 1”**  
-   *Journal of Economics, 2023*  
-   [PDF](link-to-paper.pdf) | [DOI](link-to-doi) | [Replication files](link-to-data)
-
-2. **“Title of Published Paper 2”**  
-   *Review of Economic Studies, 2022*  
-   [PDF](link-to-paper.pdf) | [DOI](link-to-doi)
+1. **“Expectations for Gasoline Prices and Inflation: Evidence from Households”**  
+   *Journal of Money, Credit and Banking, 2025*
+    with Constantin Bürgi and Karl Whelan
+   [PDF](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13260) | [Replication files](https://github.com/srivastava-prachi/Expectations-for-Gasoline-Prices-and-Inflation-Evidence-from-Households-Replication)
 
 ---
 
