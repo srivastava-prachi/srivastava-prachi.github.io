@@ -1,99 +1,79 @@
-baseURL: "https://srivastava-prachi.github.io/" 
-title: Prachi Srivastava
-theme: PaperMod
-
-enableInlineShortcodes: true
-enableRobotsTXT: true
-pagination:
-  pagerSize: 20
-
-taxonomies:
-    tag: tags
+baseURL: "https://srivastava-prachi.github.io/"
+title: "Prachi Srivastava"
+theme: "PaperMod"
 
 menu:
-    main:
-        - name: Research
-          url: /research/
-          weight: 1
-        - name: Teaching
-          url: /teaching/
-          weight: 2
-    
+  main:
+    - name: Research
+      url: /research/
+      weight: 1
+    - name: Teaching
+      url: /teaching/
+      weight: 2
 
 params:
-    description: "Welcome to Prachi Srivastava's academic website"
-    author: Prachi Srivastava
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["research", "teaching"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Prachi Srivastava
-            subtitle: |
-            Hi! I am currently an Economist at the [Central Bank of Ireland](https://www.centralbank.ie/). I hold a Ph.D. in Economics from the [University College Dublin](https://www.ucd.ie/economics/). 
+  description: "Welcome to Prachi Srivastava's academic website"
+  author: "Prachi Srivastava"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["research", "teaching"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
 
-            I work on topics in macroeconomics, in particular, expectations and uncertainty, and labor.
-           
-          imageUrl: "prachi_picture.png"
-          imageWidth: 200
-          imageHeight: 200
-          buttons:
-            - name: Research
-              url: /research/
-            - name: Teaching
-              url: /teaching/
-  
+  profileMode:
+    enabled: true
+    title: "Prachi Srivastava"
+    subtitle: |
+      Hi! I am currently an Economist at the [Central Bank of Ireland](https://www.centralbank.ie/). I hold a Ph.D. in Economics from the [University College Dublin](https://www.ucd.ie/economics/).
 
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:prachi.jmc13@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=WZCkXbUAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/srivastava-prachi
-        - name: Twitter
-          url: https://x.com/PrachiSpace9
-        - name: Linkedin
-          url: https://www.linkedin.com/in/prachi-srivastava95/
+      I work on topics in macroeconomics—especially expectations, uncertainty, and labor.
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Prachi Srivastava"
-      icon: favicon.ico
-      iconHeight: 18
+    imageUrl: "prachi_picture.png"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Research
+        url: /research/
+      - name: Teaching
+        url: /teaching/
+
+  socialIcons:
+    - name: CV
+      url: /cv.pdf
+    - name: Email
+      url: mailto:prachi.jmc13@gmail.com
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=WZCkXbUAAAAJ&hl=en
+    - name: GitHub
+      url: https://github.com/srivastava-prachi
+    - name: Twitter
+      url: https://x.com/PrachiSpace9
+    - name: Linkedin
+      url: https://www.linkedin.com/in/prachi-srivastava95/
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
