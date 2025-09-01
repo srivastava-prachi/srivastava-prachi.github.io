@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Welcome to Prachi Srivastava's academic website"
+    author: Prachi Srivastava
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["Research","CV","Teaching""]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Prachi Srivastava
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "My research focuses on expectations and uncertainty in macroeconomics. I completed my PhD from University College Dublin under the supervision of Karl Whelan and Constantin Bürgi."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -79,25 +79,21 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:prachi.jmc13@gmail.com
+        #- name: Zoom
+        #  url: https://www.zoom.us/my/igelfeld
+        #- name: Location
+       #   url: location/
+       # - name: Office Hours
+       #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=WZCkXbUAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://github.com/srivastava-prachi
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/PrachiSpace9
+        - name: Linkedin
+          url: https://www.linkedin.com/in/prachi-srivastava95/
 
     assets:
         disableScrollBarStyle: true
