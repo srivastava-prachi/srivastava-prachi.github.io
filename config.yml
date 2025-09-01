@@ -13,10 +13,10 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: research/
+          url: /research/
           weight: 1
         - name: Teaching
-          url: teaching/
+          url: /teaching/
           weight: 2
     
 
@@ -53,9 +53,9 @@ params:
           imageHeight: 160
           buttons:
             - name: Research
-              url: research/
+              url: /research/
             - name: Teaching
-              url: teaching/
+              url: /teaching/
   
 
     socialIcons:
