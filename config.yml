@@ -12,21 +12,13 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
+          weight: 1
+        - name: Teaching
+          url: teaching/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+    
 
 params:
     description: "Welcome to Prachi Srivastava's academic website"
@@ -44,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["Research","CV","Teaching""]
+    MainSections: ["research", "teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,32 +52,17 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Research
+              url: research/
+            - name: Teaching
+              url: teaching/
+  
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:prachi.jmc13@gmail.com
-        #- name: Zoom
-        #  url: https://www.zoom.us/my/igelfeld
-        #- name: Location
-       #   url: location/
-       # - name: Office Hours
-       #   url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=WZCkXbUAAAAJ&hl=en
         - name: GitHub
@@ -101,7 +78,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Prachi Srivastava"
       icon: favicon.ico
       iconHeight: 18
 
