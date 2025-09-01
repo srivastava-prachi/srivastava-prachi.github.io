@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Prachi Srivastava
           subtitle: "My research focuses on expectations and uncertainty in macroeconomics. I completed my PhD from University College Dublin under the supervision of Karl Whelan and Constantin Bürgi."
-          imageUrl: "picture.jpeg"
+          imageUrl: "prachi_picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
