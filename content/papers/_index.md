@@ -6,7 +6,7 @@
 
 ----
 
-1. **“Expectations for Gasoline Prices and Inflation: Evidence from Households”**  
+- **“Expectations for Gasoline Prices and Inflation: Evidence from Households”**  
    *Journal of Money, Credit and Banking, 2025*
    
    <small>with Constantin Bürgi and Karl Whelan</small>  
