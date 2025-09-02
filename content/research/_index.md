@@ -33,14 +33,16 @@
 
    
    [Working Paper](https://www.dropbox.com/home/Inflation%20uncertainty?preview=Household+Inflation+Uncertainty+and+Wage+Growth+Expectation.pdf)
+
+- **“Shedding light on economic growth: Nowcasting in Venezuela”** — draft available on request  
+
+  <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
+
   
 ---
 
 ### Work in Progress
 
-- **“Shedding light on economic growth: Nowcasting in Venezuela”** — draft available on request  
-
-  <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
 
 - **"Subjective Household Philips Curve"**
   
