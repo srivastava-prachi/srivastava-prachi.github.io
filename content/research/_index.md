@@ -8,7 +8,7 @@
 
 ### Working Papers
 
-1. **“Firm climate investment: A glass half-full”**
+- **“Firm climate investment: A glass half-full”**
    
    *Revise and Resubmit - Energy Economics*
 
@@ -18,24 +18,40 @@
 
    [Latest Draft]() | [NBER](https://www.nber.org/papers/w33081)
 
-2. **“The Drivers of Household Inflation Uncertainty”**
+- **“The Drivers of Household Inflation Uncertainty”**
 
    
    <small>with Philip Schnattinger</small>
 
    
-   [Working Paper](link-to-NBER-or-SSRN)
+   [Working Paper](https://www.dropbox.com/scl/fi/wxp6kppwp4kyud0lpfh1r/Drivers_of_Household_Inflation_Uncertainty.pdf?rlkey=8zafc6rmd0cia6byxsehb070o&e=2&dl=0)
 
-3. **“Household Inflation Uncertainty and Wage Growth Expectations”**
+- **“Household Inflation Uncertainty and Wage Growth Expectations”**
 
    
    <small>with Philip Schnattinger</small>
 
    
-   [Working Paper](link-to-NBER-or-SSRN)
+   [Working Paper](https://www.dropbox.com/home/Inflation%20uncertainty?preview=Household+Inflation+Uncertainty+and+Wage+Growth+Expectation.pdf)
+  
 ---
 
 ### Work in Progress
 
-- **“Tentative Title 1”** — with *Coauthor A*  
+- **“Shedding light on economic growth: Nowcasting in Venezuela”** — draft available on request  
 
+  <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
+
+- **Subjective Household Philips Curve**
+  
+  <small>with Anushka Mitra (Fed Board), Einar Paz (UT Austin)</small>
+
+- **Media, Sentiments and Partisan Expectations - Evidence from daily consumer data**
+  
+   <small> with Constantin Burgi (UCD) and Edward Knotek II (Fed Cleveland)<\small>
+  
+- Salience in Inflation Expectations: Granular Evidence from the UK
+
+- Measuring the pass-through of expected house prices to inflation expectations through the lens of housing tenure
+
+   <small> with Gabriel Arce Alfaro and Tara McIndoe-Calder<\small>
