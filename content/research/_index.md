@@ -42,16 +42,16 @@
 
   <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
 
-- **Subjective Household Philips Curve**
+- **"Subjective Household Philips Curve"**
   
   <small>with Anushka Mitra (Fed Board), Einar Paz (UT Austin)</small>
 
-- **Media, Sentiments and Partisan Expectations - Evidence from daily consumer data**
+- **"Media, Sentiments and Partisan Expectations - Evidence from daily consumer data"**
   
    <small>with Constantin Burgi (UCD) and Edward Knotek II (Fed Cleveland)</small>
   
-- Salience in Inflation Expectations: Granular Evidence from the UK
+- **"Salience in Inflation Expectations: Granular Evidence from the UK"**
 
-- Measuring the pass-through of expected house prices to inflation expectations through the lens of housing tenure
+- **"Measuring the pass-through of expected house prices to inflation expectations through the lens of housing tenure"**
 
-   <small>with Gabriel Arce Alfaro and Tara McIndoe-Calder</small>
+   <small>with Gabriel Arce Alfaro and Tara McIndoe-Calder (CBI)</small>
