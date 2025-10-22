@@ -32,7 +32,7 @@
    <small>with Philip Schnattinger</small>
 
    
-   [Working Paper](https://www.dropbox.com/home/Inflation%20uncertainty?preview=Household+Inflation+Uncertainty+and+Wage+Growth+Expectation.pdf)| [Slides](https://www.dropbox.com/scl/fi/uzgzv4woqfldm3bdfi0oq/Inf_Uncertainty_WGE.pdf?rlkey=ucoh3929ctco2yzorq71mstvi&st=48ykxhr3&dl=0)
+   [CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12216.pdf)| [Slides](https://www.dropbox.com/scl/fi/uzgzv4woqfldm3bdfi0oq/Inf_Uncertainty_WGE.pdf?rlkey=ucoh3929ctco2yzorq71mstvi&st=48ykxhr3&dl=0)
 
 - **“Shedding light on economic growth: Nowcasting in Venezuela”** — draft available on request  
 
