@@ -42,7 +42,7 @@ params:
     enabled: true
     title: "Prachi Srivastava"
     subtitle: |
-     Hi! I am an Assistant Professor (W1 Junior Prof) at the Alfred-Weber-Institute, Heidelberg University, and Research Affiliate at the Central Bank of Ireland<a href="https://www.centralbank.ie/" target="_blank"><b>Central Bank of Ireland</b></a>. I hold a Ph.D. in Economics from the <a href="https://www.ucd.ie/economics/" target="_blank"><b>University College Dublin</b></a>.
+     Hi! I am an Assistant Professor (W1 Junior Prof) at the Alfred-Weber-Institute, Heidelberg University, and Research Affiliate at the <a href="https://www.centralbank.ie/" target="_blank"><b>Central Bank of Ireland</b></a>. I hold a Ph.D. in Economics from the <a href="https://www.ucd.ie/economics/" target="_blank"><b>University College Dublin</b></a>.
      I work on topics in macroeconomics, especially expectations, uncertainty, and labor.
     imageUrl: "prachi_picture.png"
     imageWidth: 200
