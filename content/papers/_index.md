@@ -6,9 +6,11 @@
 
 ----
 - **“Firm climate investment: A glass half-full”**  
-  *Accepted - Energy Economics*
+  *Accepted - Energy Economics*  
 
   <small>with Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, and Ivan Yotzov</small>
+
+
   [Latest Draft]() | [NBER](https://www.nber.org/papers/w33081)
 
   
