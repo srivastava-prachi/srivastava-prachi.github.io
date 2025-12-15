@@ -5,6 +5,17 @@
 </div>
 
 ----
+- **“Firm climate investment: A glass half-full”**
+   
+   *Accepted - Energy Economics*
+
+
+   <small>with Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, and Ivan Yotzov</small>
+   
+
+   [Latest Draft]() | [NBER](https://www.nber.org/papers/w33081)
+
+  
 
 - **“Expectations for Gasoline Prices and Inflation: Evidence from Households”**  
    *Journal of Money, Credit and Banking, 2025*
