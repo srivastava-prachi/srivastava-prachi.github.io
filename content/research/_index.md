@@ -8,16 +8,6 @@
 
 ### Working Papers
 
-- **“Firm climate investment: A glass half-full”**
-   
-   *Revise and Resubmit - Energy Economics*
-
-
-   <small>with Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, and Ivan Yotzov</small>
-   
-
-   [Latest Draft]() | [NBER](https://www.nber.org/papers/w33081)
-
 - **“The Drivers of Household Inflation Uncertainty”**
 
    
