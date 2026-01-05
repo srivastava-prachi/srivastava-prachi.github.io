@@ -10,7 +10,7 @@
 
   <small>with Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, and Ivan Yotzov</small>
 
-  [PDF](https://www.sciencedirect.com/science/article/pii/S0140988325009272)| [NBER](https://www.nber.org/papers/w33081)
+  [PDF](https://www.sciencedirect.com/science/article/pii/S0140988325009272) | [NBER](https://www.nber.org/papers/w33081)
 
 
 - **“Expectations for Gasoline Prices and Inflation: Evidence from Households”**  
