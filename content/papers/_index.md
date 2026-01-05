@@ -6,7 +6,7 @@
 
 ----
 - **“Firm climate investment: A glass half-full”**  
-  *Accepted - Energy Economics*  
+  *Energy Economics, 2025*  
 
   <small>with Nicholas Bloom, Philip Bunn, Paul Mizen, Gregory Thwaites, and Ivan Yotzov</small>
 
