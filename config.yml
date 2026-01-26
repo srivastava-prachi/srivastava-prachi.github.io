@@ -58,9 +58,9 @@ params:
   socialIcons:
     - name: CV
       url: /cv.pdf
-    - name: Email
+    - name: Email (Personal)
       url: mailto:prachi.jmc13@gmail.com
-    - name: Email
+    - name: Email (Work)
       url: mailto:prachi.srivastava@awi.uni-heidelberg.de
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=WZCkXbUAAAAJ&hl=en
