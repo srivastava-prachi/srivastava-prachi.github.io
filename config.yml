@@ -60,6 +60,8 @@ params:
       url: /cv.pdf
     - name: Email
       url: mailto:prachi.jmc13@gmail.com
+    - name: Email
+      url: mailto:prachi.srivastava@awi.uni-heidelberg.de
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=WZCkXbUAAAAJ&hl=en
     - name: GitHub
