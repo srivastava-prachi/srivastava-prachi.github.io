@@ -28,6 +28,10 @@
 
   <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
 
+
+  [IMF Working Paper](https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026020-source-pdf.pdf)
+
+
   
 ---
 
