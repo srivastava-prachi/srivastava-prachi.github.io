@@ -24,7 +24,7 @@
    
    [CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12216.pdf)| [Slides](https://www.dropbox.com/scl/fi/uzgzv4woqfldm3bdfi0oq/Inf_Uncertainty_WGE.pdf?rlkey=ucoh3929ctco2yzorq71mstvi&st=48ykxhr3&dl=0)
 
-- **“Shedding light on economic growth: Nowcasting in Venezuela”** — draft available on request  
+- **“Shedding light on economic growth: Nowcasting in Venezuela”**
 
   <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
 
