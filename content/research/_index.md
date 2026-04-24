@@ -8,7 +8,7 @@
 
 ### Working Papers
 
-- **“The Drivers of Household Inflation Uncertainty”**
+- **“Sector-Specific Household Inflation Uncertainty and Monetary Policy”**
 
    
    <small>with Philip Schnattinger</small>
