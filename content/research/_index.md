@@ -46,7 +46,7 @@
 
 - **“Measuring the Pass-Through of Expected House Prices to Inflation Expectations through the Lens of Housing Tenure”**
 
-  <small>with Gabriel Arce Alfaro and Tara McIndoe-Calder (Central Bank of Ireland)</small>
+  <small>with Gabriel Arce Alfaro (Central Bank of Ireland) and Tara McIndoe-Calder (ESRI)</small>
 
 ---
 
