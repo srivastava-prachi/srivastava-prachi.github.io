@@ -64,6 +64,8 @@ params:
         url: /papers/
       - name: Teaching
         url: /teaching/
+      - name: Policy
+        url: /policy/
 
   socialIcons:
     - name: CV
