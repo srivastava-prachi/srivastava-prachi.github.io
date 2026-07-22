@@ -13,10 +13,14 @@
 
   [Quarterly Bulletin Q3 2025](https://www.centralbank.ie/publication/quarterly-bulletins/quarterly-bulletin-q3-2025#content7)
 
+  <br><br>
+
 - **Bank of England (2023)**  
   *“Firm Climate Investments”*
 
   Policy note prepared for the policy round.
+
+  <br><br>
 
 - **Asian Development Bank (2023)**  
   *“Asian Economic Integration Report 2023: Trade, Investment, and Climate Change in Asia and the Pacific”*
