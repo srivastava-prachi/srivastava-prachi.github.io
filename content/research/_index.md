@@ -8,30 +8,25 @@
 
 ### Working Papers
 
-- **“Sector-Specific Household Inflation Uncertainty and Monetary Policy”**
+- **“Shedding Light on Economic Growth: Nowcasting in Venezuela”**
 
-   
-   <small>with Philip Schnattinger</small>
-
-   
-   [Working Paper](https://www.dropbox.com/scl/fi/wxp6kppwp4kyud0lpfh1r/Drivers_of_Household_Inflation_Uncertainty.pdf?rlkey=8zafc6rmd0cia6byxsehb070o&e=2&dl=0)
-
-- **“Household Inflation Uncertainty and Wage Growth Expectations”**
-
-   
-   <small>with Philip Schnattinger</small>
-
-   
-   [CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12216.pdf)| [Slides](https://www.dropbox.com/scl/fi/uzgzv4woqfldm3bdfi0oq/Inf_Uncertainty_WGE.pdf?rlkey=ucoh3929ctco2yzorq71mstvi&st=48ykxhr3&dl=0)
-
-- **“Shedding light on economic growth: Nowcasting in Venezuela”**
-
-  <small>with Eurydice Fotopoulou, Iyke Maduako, Belen Sbrancia (IMF)</small>
-
+  <small>with Eurydice Fotopoulou, Iyke Maduako, and Belen Sbrancia (IMF)</small>
 
   [IMF Working Paper](https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026020-source-pdf.pdf)
 
+  <br><br>
 
+- **“Household Inflation Uncertainty and Wage Growth Expectations”**
+
+  <small>with Philip Schnattinger</small>
+
+  [CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12216.pdf) | [Slides](https://www.dropbox.com/scl/fi/uzgzv4woqfldm3bdfi0oq/Inf_Uncertainty_WGE.pdf?rlkey=ucoh3929ctco2yzorq71mstvi&st=48ykxhr3&dl=0)
+
+  <br><br>
+
+- **“Sector-Specific Household Inflation Uncertainty and Monetary Policy”**
+
+  <small>with Philip Schnattinger</small>
   
 ---
 
