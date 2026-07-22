@@ -33,16 +33,25 @@
 ### Work in Progress
 
 
-- **"Subjective Household Philips Curve"**
+- **"Subjective Household Phillips Curve"**
   
   <small>with Anushka Mitra (Fed Board), Einar Paz (UT Austin)</small>
 
+  <br><br>
+  
 - **"Media, Sentiments and Partisan Expectations - Evidence from daily consumer data"**
   
    <small>with Constantin Burgi (UCD) and Edward Knotek II (Fed Cleveland)</small>
-  
-- **"Salience in Inflation Expectations: Granular Evidence from the UK"**
+
+   <br><br>
 
 - **"Measuring the pass-through of expected house prices to inflation expectations through the lens of housing tenure"**
 
    <small>with Gabriel Arce Alfaro and Tara McIndoe-Calder (CBI)</small>
+
+---
+
+### Dormant Projects
+
+- **"Salience in Inflation Expectations: Granular Evidence from the UK"**
+
