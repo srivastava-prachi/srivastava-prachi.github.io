@@ -13,6 +13,9 @@ menu:
     - name: Teaching
       url: /teaching/
       weight: 3
+    - name: Policy
+      url: /policy/
+      weight: 4
 
 params:
   description: "Welcome to Prachi Srivastava's academic website"
