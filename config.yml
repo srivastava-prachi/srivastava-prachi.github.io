@@ -52,8 +52,8 @@ params:
 
       I am always happy to chat about my research! Feel free to contact me via <a href="mailto:prachi.srivastava@awi.uni-heidelberg.de"><b>email</b></a>.
     imageUrl: "prachi_picture.png"
-    imageWidth: 180
-    imageHeight: 120
+    imageWidth: 200
+    imageHeight: 200
     buttons:
       - name: Research
         url: /research/
