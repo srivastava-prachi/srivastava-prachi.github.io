@@ -16,7 +16,7 @@ menu:
     - name: Policy
       url: /policy/
       weight: 4
-
+      
 params:
   description: "Welcome to Prachi Srivastava's academic website"
   author: "Prachi Srivastava"
