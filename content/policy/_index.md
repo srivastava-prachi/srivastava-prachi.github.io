@@ -16,9 +16,7 @@
   <br><br>
 
 - **Bank of England (2023)**  
-  *“Firm Climate Investments”*
-
-  Policy note prepared for the policy round.
+  *“Firm Climate Investments”*  -- Policy note prepared for the policy round.
 
   <br><br>
 
