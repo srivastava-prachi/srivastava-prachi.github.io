@@ -27,31 +27,29 @@
 - **“Sector-Specific Household Inflation Uncertainty and Monetary Policy”**
 
   <small>with Philip Schnattinger</small>
-  
+
 ---
 
 ### Work in Progress
 
+- **“Subjective Household Phillips Curve”**
 
-- **"Subjective Household Phillips Curve"**
-  
-  <small>with Anushka Mitra (Fed Board), Einar Paz (UT Austin)</small>
+  <small>with Anushka Mitra (Federal Reserve Board) and Einar Paz (University of Texas at Austin)</small>
 
   <br><br>
-  
-- **"Media, Sentiments and Partisan Expectations - Evidence from daily consumer data"**
-  
-   <small>with Constantin Burgi (UCD) and Edward Knotek II (Fed Cleveland)</small>
 
-   <br><br>
+- **“Media, Sentiment, and Partisan Expectations: Evidence from Daily Consumer Data”**
 
-- **"Measuring the pass-through of expected house prices to inflation expectations through the lens of housing tenure"**
+  <small>with Constantin Bürgi (University College Dublin) and Edward Knotek II (Federal Reserve Bank of Cleveland)</small>
 
-   <small>with Gabriel Arce Alfaro and Tara McIndoe-Calder (CBI)</small>
+  <br><br>
+
+- **“Measuring the Pass-Through of Expected House Prices to Inflation Expectations through the Lens of Housing Tenure”**
+
+  <small>with Gabriel Arce Alfaro and Tara McIndoe-Calder (Central Bank of Ireland)</small>
 
 ---
 
 ### Dormant Projects
 
-- **"Salience in Inflation Expectations: Granular Evidence from the UK"**
-
+- **“Salience in Inflation Expectations: Granular Evidence from the UK”**
