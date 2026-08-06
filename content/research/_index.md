@@ -28,6 +28,8 @@
 
   <small>with Philip Schnattinger</small>
 
+  [Heidelberg AWI Working Paper](https://backend.awi.uni-heidelberg.de/en/documents/dp-772-july-2026/download)
+
 ---
 
 ### Work in Progress
