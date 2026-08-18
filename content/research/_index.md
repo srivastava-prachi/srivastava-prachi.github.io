@@ -30,6 +30,8 @@
 
   [Heidelberg AWI Working Paper](https://backend.awi.uni-heidelberg.de/en/documents/dp-772-july-2026/download)
 
+  You can download the time series data here: [Sectoral Inflation Uncertainty](https://sites.google.com/view/sectorinflationuncertainty/home)
+
 ---
 
 ### Work in Progress
