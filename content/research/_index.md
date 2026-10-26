@@ -56,7 +56,7 @@
 - **“Subjective Household Phillips Curve”**
 
   <small>with Anushka Mitra (Federal Reserve Board) and Einar Paz (University of Texas at Austin)</small><br>
-  [RCT implemented - BoP HH for October 2026]
+  **[RCT implemented - BoP HH for October 2026]**
 
   <br><br>
 
