@@ -10,9 +10,14 @@
 
 #### Alfred Weber Institute, Heidelberg University
 
-**2026**
+**Spring 2026**
 
 - Behavioral Macroeconomics (Master’s level)
+
+**Fall 2026**
+- **Block Seminar** - Expectations in Labor and Monetary Economics (Master's level)
+- **Block Seminar** - The Role of Expectations in Macroeconomics (Bachelor's level)
+
 
 ### Teaching Assistant Experience
 
