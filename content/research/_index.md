@@ -32,6 +32,7 @@
 
   You can download the time series data here: [Sectoral Inflation Uncertainty](https://sites.google.com/view/sectorinflationuncertainty/home)
 
+  <br><br>
   
 - **“The Role of Housing Tenure: House-Price and Inflation Expectations: Evidence from the Euro Area”**
 
@@ -40,7 +41,9 @@
   <details>
   <summary>Abstract</summary>
 
+  <p align="justify">
   This paper examines how households’ housing circumstances shape the relationship between house-price and inflation expectations. Using household-level data from the ECB Consumer Expectations Survey for 11 euro-area countries, we document a positive association between one-year-ahead expected house-price growth and expected inflation. The association is stronger among renters than homeowners, while mortgagors and outright owners exhibit similar sensitivities in the pooled sample. Among mortgagors, adjustable-rate borrowers display a stronger association than fixed-rate borrowers. Expected rent growth is also positively associated with inflation expectations, and its inclusion reduces, but does not eliminate, the house-price association. We further examine whether this relationship varies with perceived accommodation-search and selling durations. We interpret these patterns through a framework in which housing tenure, contractual exposure and perceived market conditions influence the relevance and interpretation of housing-price signals. The findings are consistent with anticipated housing costs and exposure to financing conditions shaping inflation beliefs, while ownership may partly hedge future accommodation costs. Housing-related expectations therefore provide information about households’ inflation beliefs beyond the direct treatment of dwelling acquisition costs in the HICP.
+  </p>
 
   </details>
 
